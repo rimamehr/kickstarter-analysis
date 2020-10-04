@@ -23,14 +23,14 @@ We had extremely values set for some of our goal amounts that caused our dataset
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+###What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 Based on our analysis of the theater category we can conclude that May/June is the best month for launching a successful kickstarter project and the success rapidly drops towards the end of the year. 
 
 The launch date has very minimal affect on the failure or cancelation of a project and it says pretty consistent throughtout the year. 
 
 
-- What can you conclude about the Outcomes based on Goals?
+###What can you conclude about the Outcomes based on Goals?
 
 Our outcome for success was negatively correlated to the goal amount. Our success rate was the highest when the goal amount was the lowest and as the goal amount kept increasing the success rate kept going down with an exception of a spike at the goal amount of 35000 to 44999.
 
