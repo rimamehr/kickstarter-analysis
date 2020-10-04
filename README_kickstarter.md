@@ -17,7 +17,7 @@ We looked at the outcome of the campaign based on its launch date and goals.
 
 
 ### Analysis of Outcomes Based on Goals
-![GitHub Logo](/resources/Outcomes_vs_Goals)
+![GitHub Logo](/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 Some of the challenges we faced in our analysis was our start date and end date for our campaigns were in a unix timestamp format which needed some initial formatting before we could start our analysis.
