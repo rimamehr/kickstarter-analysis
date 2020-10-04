@@ -24,7 +24,7 @@ We looked at the outcome of the campaign based on its launch date and goals.
 
 - Similary the outcome for failure was positively correlated to the goal amount. Our failure rate was the lowest when the goat amount was the smallest and as the goal amount kept increasing the failure rate kept going up with it, again with an exception of a spike at the goal amount of 35000 to 44999.
 
-- The cancled outcome did not depend on goal amounts at all thus the line stayed flat on the x-axis with no variation.
+- The canceled outcome did not depend on goal amounts at all thus the line stayed flat on the x-axis with no variation.
 
 ### Challenges and Difficulties Encountered
 Some of the challenges we faced in our analysis was our start date and end date for our campaigns were in a unix timestamp format which needed some initial formatting before we could start our analysis.
