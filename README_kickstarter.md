@@ -45,7 +45,7 @@ We had extremely values set for some of our goal amounts that caused our dataset
 In case of our Succesful US kickstarter we se values for our goal column to be greater than 1.5 IQR ( 1.5* 3500 =5250)
 Similarly for our failed US kickstarter we see values for our goal column to be greater than 1.5 IQR (1.5 * 8000 = $12000)
 
-![GitHub Logo](/resources/Descriptive Statistics.png)
+![GitHub Logo](/resources/Descriptive_Statistics.png)
 
 - The average successful plays project has a project goal 2 times less than failed projects, as well as average pledged amount of almost 10 times more than failed projects.
 
