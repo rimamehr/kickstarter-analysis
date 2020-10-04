@@ -13,7 +13,7 @@ We looked at the outcome of the campaign based on its launch date and goals.
 
 
 ### Analysis of Outcomes Based on Launch Date
-!(/resources/Theater_Outcomes_vs_Launch.png)
+(/resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
