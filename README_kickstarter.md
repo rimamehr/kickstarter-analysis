@@ -13,6 +13,8 @@ We looked at the outcome of the campaign based on its launch date and goals.
 
 
 ### Analysis of Outcomes Based on Launch Date
+![GitHub Logo](/resources/Theater_Outcomes_vs_Launch.png)
+Format: ![Alt Text](url)
 
 ### Analysis of Outcomes Based on Goals
 
